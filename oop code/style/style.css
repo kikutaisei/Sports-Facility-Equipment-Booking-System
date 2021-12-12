@@ -1,0 +1,27 @@
+
+.homePageButton{
+    Text-align:center;
+    Font-size:100px;
+    Width:100%;
+    Height:18%;
+    Margin:3px;
+    Border-radius:20px;
+    Border:none
+}
+
+.navButton{
+    Text-align:center;
+    Font-size:30px;
+    Width:20%;
+    Height:5%;
+    Border-radius:20px;
+    Border:none;
+    display:inline-block;
+    Background-color: deepskyblue;
+}
+
+Table, th, td{
+    Border-collapse:collapse;
+    Border:2px solid black;
+    Padding:5px;
+}

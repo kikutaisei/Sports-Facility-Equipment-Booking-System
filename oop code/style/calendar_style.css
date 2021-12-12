@@ -1,0 +1,34 @@
+
+.navButton{
+    Text-align:center;
+    Font-size:30px;
+    Width:20%;
+    Height:5%;
+    Border-radius:20px;
+    Border:none;
+    display:inline-block;
+    background-color: deepskyblue;
+}
+
+Table{
+    Border-collapse:collapse;
+    Border:2px solid black;
+    Padding:5px;
+    height: 75%;
+    width: 100%;
+    table-layout: fixed;
+}
+
+th{
+    Border-collapse:collapse;
+    Border:2px solid black;
+    Padding:5px;
+    height: 50px;
+}
+
+td{
+    Border-collapse:collapse;
+    Border:2px solid black;
+    Padding:5px;
+    text-align: center;
+}
